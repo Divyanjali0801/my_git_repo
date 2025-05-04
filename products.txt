@@ -1,2 +1,6 @@
 this file is about products
+<<<<<<< HEAD
 apple iphone - smartphone
+=======
+samsung tv-LED
+>>>>>>> feature2
